@@ -5,3 +5,5 @@ env/
 db.sqlite3
 *.scss
 __pycache__/
+dist/
+django_optin.egg-info
