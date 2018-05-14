@@ -46,5 +46,5 @@ is presented to User (via django messages).
 Default = True
 
 OPTIN_SETTINGS_UPDATE_MESSAGE:
-Message displayed to User ifOPTIN_SETTINGS_UPDATE_MESSAGE_BOOLEAN set to True.
+Message displayed to User if OPTIN_SETTINGS_UPDATE_MESSAGE_BOOLEAN set to True.
 Default = 'Preferences Updated'

@@ -15,7 +15,7 @@ setup(
     license='MIT License',  # example license
     description='A simple Django app to manage User Preferences.',
     long_description=README,
-    url='https://www.example.com/',
+    url='https://github.com/HenryMehta/django-optin',
     author='Henry Mehta',
     author_email='hjsmehta@gmail.com',
     classifiers=[
